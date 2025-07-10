@@ -1,6 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "usagespecid",
-  "type": "string",
-  "description": "An identifier for the usage specification"
+  "$id": "https://github.com/laraminones/tmf-new-schemas/blob/main/UsageSpecId.json",
+  "title": "Usage Spec Id",
+  "description": "An identifier for the usage specification",
+  "type": "object",
+  "properties": {
+    "usagespecid": {
+      "type": "string",
+      "description": "An identifier for the usage specification."
+    }
+  }
 }
