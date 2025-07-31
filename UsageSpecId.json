@@ -5,7 +5,7 @@
   "description": "An identifier for the usage specification",
   "type": "object",
   "properties": {
-    "usagespecid": {
+    "usageSpecId": {
       "type": "string",
       "description": "An identifier for the usage specification."
     }
